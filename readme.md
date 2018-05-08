@@ -4,7 +4,7 @@ JavaScript and CSS which recreates the classic Star Wars intro
 
 ## Technology
 
-* [HTML, CSS, JavaScript](https://github.com/kmthorsnes/starwars-css/) - Running solution on GitHub page
+* [HTML, CSS, JavaScript](https://kmthorsnes.github.io/starwars-css/) - Running solution on GitHub page
 
 ## Screenshots
 ![Screenshot](https://github.com/kmthorsnes/starwars-css/blob/master/screenshots/gif1.gif?raw=true "Optional title")
